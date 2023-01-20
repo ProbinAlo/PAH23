@@ -1,12 +1,14 @@
 # PAH23: Making connections open, easier and scalable
 
-![alt text](https://ibb.co/FDKTYnX)
+![alt text](https://cdn140.picsart.com/268533700009211.png?r1024x1024)
 
 ## Solution Project: A Node Simulator
 - A Web App
 - Visualized Data
 - User Control to Create 
 - Expandable Ideas
+
+![alt text](https://www.webopedia.com/wp-content/uploads/2021/05/Web_App_Flow-01-01-696x262.png)
 
 ## Project Requirements 
 1. User account creation.
