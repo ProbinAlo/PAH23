@@ -23,6 +23,17 @@ _Demo image of a graph visualizer_
 
 ## Project Requirements 
 1. User account creation.
+    
+    #### Fields:
+    - Username
+    - Email
+    - Password
+    - Number of projects/models user has created
+
+    #### Possible login methods:
+    - Passwords
+    - Two-Factor Authentication (not mandatory)
+
 2. Must save user progress. Should contain undo, redo and etc. options.
 3. Must have buttons that let user create nodes and edges with data.
 4. Shows visual representation of nodes and edges with data. Easily visible data is priority in the representation.
