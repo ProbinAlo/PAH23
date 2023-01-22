@@ -2,14 +2,22 @@
 
 Welcome to ProbinAlo Hackathon 2023 project repository. Good luck everyone!  
 
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Tools](#tools)
+3. [Project Requirements](#requirements)
+    1. [User Profile](#profile)
+        
 <img src="https://cdn140.picsart.com/268533700009211.png?r1024x1024" width=25% height=25%>
 
+<a name="introduction"></a>
 ## Solution Project: A Node Simulator
 ### At a glance: 
 - A Web App
 - Visualized Data
 - User Control to Create 
 - Expandable Ideas
+<a name="tools"></a>
 ### Suggested tools:
 ![](https://img.shields.io/badge/Frontend-Svelte-informational?style=for-the-badge&logo=Svelte&color=FF3E00)
 ![](https://img.shields.io/badge/Backend-ExpressJS-informational?style=for-the-badge&logo=Express&color=000000)
@@ -21,7 +29,9 @@ Welcome to ProbinAlo Hackathon 2023 project repository. Good luck everyone!
 
 _Demo image of a graph visualizer_
 
+<a name="requirements"></a>
 ## Project Requirements 
+<a name="profile"></a>
 1. User account creation.
     
     #### Fields:
