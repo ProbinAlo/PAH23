@@ -74,8 +74,8 @@ Note that bidirectional edges can also be represented in this format.
 | ------- | ------------------------------------ | -------------- | ----- |
 | n_size  | Total size in bytes of $nodes$ array | 0x0            | u64   |
 | n_array | List of null terminated strings.     | 0x8            | bytes |
-| e_size  | Total size in bytes of $edges$ array | $8 + n\_size$  | u64   |
-| e_array | Array of edge list.                  | $16 + n\_size$ | bytes |
+| e_size  | Total size in bytes of $edges$ array | $8 + n\\_size$  | u64   |
+| e_array | Array of edge list.                  | $16 + n\\_size$ | bytes |
 
 ### Representation of `e_array`
 
@@ -98,5 +98,5 @@ The bytes represent the following `e_array`:
 
 `[[10, 11], [10]]`
 
-Here, the position of the first `e_list` is $e\_array\_pos + 8$. The position of the second `e_list` is $e\_array\_pos + 8 + 16 + 8$.
+Here, the position of the first `e_list` is $e\\_array\\_pos + 8$. The position of the second `e_list` is $e\\_array\\_pos + 8 + 16 + 8$.
 
